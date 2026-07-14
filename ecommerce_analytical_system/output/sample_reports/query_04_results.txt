@@ -1,0 +1,43 @@
+QUERY 4 RESULTS
+================================================================================
+
+customer_id | customer_name | order_count | delivered_orders
+--------------------------------------------------------------------------------
+CUST0067 | Eve Brown | 10 | 0
+CUST0019 | Jane Smith | 8 | 0
+CUST0002 | Jane Garcia | 8 | 0
+CUST0079 | Bob Williams | 6 | 0
+CUST0062 | John Johnson | 6 | 0
+CUST0028 | Jane Johnson | 6 | 0
+CUST0061 | Henry Smith | 5 | 0
+CUST0056 | Diana Brown | 5 | 0
+CUST0050 | Henry Rodriguez | 5 | 0
+CUST0044 | Eve Garcia | 5 | 0
+CUST0030 | Henry Williams | 5 | 0
+CUST0016 | Grace Martinez | 5 | 0
+CUST0008 | John Rodriguez | 5 | 0
+CUST0099 | Diana Brown | 4 | 0
+CUST0091 | Grace Rodriguez | 4 | 0
+CUST0040 | Henry Johnson | 4 | 0
+CUST0015 | Alice Miller | 4 | 0
+CUST0006 | Charlie Smith | 4 | 0
+CUST0003 | Jane Martinez | 4 | 0
+CUST0098 | Bob Johnson | 3 | 0
+CUST0095 | Diana Martinez | 3 | 0
+CUST0094 | Frank Rodriguez | 3 | 0
+CUST0092 | Jane Miller | 3 | 0
+CUST0048 | Henry Johnson | 3 | 0
+CUST0046 | Alice Martinez | 3 | 0
+CUST0043 | John Davis | 3 | 0
+CUST0027 | Henry Miller | 3 | 0
+CUST0007 | John Williams | 3 | 0
+CUST0001 | Eve Rodriguez | 3 | 0
+CUST0086 | Diana Miller | 2 | 0
+CUST0082 | Alice Williams | 2 | 0
+CUST0072 | Bob Davis | 2 | 0
+CUST0060 | Henry Davis | 2 | 0
+CUST0020 | Henry Jones | 2 | 0
+CUST0087 | Diana Brown | 1 | 0
+CUST0053 | John Martinez | 1 | 0
+
+[Total rows: 36]

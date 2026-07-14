@@ -1,0 +1,8 @@
+DATA QUALITY REPORT
+============================================================
+
+NULL Customer IDs: 28 orders
+Date Format Errors: 39 fixed
+Invalid Emails: 4 customers
+Referential Integrity Errors: 43 items
+Product Name Issues: 0 fixed

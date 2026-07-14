@@ -1,0 +1,27 @@
+QUERY 16 RESULTS
+================================================================================
+
+product_a | product_a_name | product_b | product_b_name | times_bought_together
+--------------------------------------------------------------------------------
+PROD0028 | Keyboard Electronics | PROD0043 | Phone Home | 4
+PROD0001 | Monitor Electronics | PROD0034 | Novel Electronics | 3
+PROD0001 | Monitor Electronics | PROD0050 | Phone Home | 3
+PROD0004 | Lamp Books | PROD0018 | Keyboard Books | 3
+PROD0010 | Laptop Books | PROD0047 | Keyboard Electronics | 3
+PROD0014 | Laptop Electronics | PROD0029 | Shirt Home | 3
+PROD0015 | Headphones Home | PROD0041 | Monitor Electronics | 3
+PROD0015 | Headphones Home | PROD0049 | Lamp Home | 3
+PROD0019 | Laptop Clothing | PROD0022 | Phone Books | 3
+PROD0019 | Laptop Clothing | PROD0027 | Desk Electronics | 3
+PROD0020 | Desk Clothing | PROD0028 | Keyboard Electronics | 3
+PROD0022 | Phone Books | PROD0027 | Desk Electronics | 3
+PROD0022 | Phone Books | PROD0029 | Shirt Home | 3
+PROD0022 | Phone Books | PROD0036 | Novel Electronics | 3
+PROD0031 | Keyboard Electronics | PROD0049 | Lamp Home | 3
+PROD0038 | Phone Electronics | PROD0045 | Shirt Clothing | 3
+PROD0044 | Headphones Books | PROD0049 | Lamp Home | 3
+PROD0047 | Keyboard Electronics | PROD0048 | Desk Clothing | 3
+PROD0001 | Monitor Electronics | PROD0016 | Laptop Electronics | 2
+PROD0001 | Monitor Electronics | PROD0028 | Keyboard Electronics | 2
+
+[Total rows: 20]

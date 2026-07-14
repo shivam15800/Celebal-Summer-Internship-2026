@@ -1,0 +1,17 @@
+QUERY 2 RESULTS
+================================================================================
+
+customer_id | customer_name | customer_type | total_spent | order_count
+--------------------------------------------------------------------------------
+CUST0018 | Charlie Miller | PREMIUM | 22508.13 | 8
+CUST0041 | Alice Miller | PREMIUM | 21241.05 | 7
+CUST0009 | Diana Smith | REGULAR | 19828.44 | 6
+CUST0033 | John Johnson | REGULAR | 18818.13 | 4
+CUST0024 | Frank Davis | PREMIUM | 18563.42 | 4
+CUST0093 | Frank Jones | VIP | 17494.63 | 6
+CUST0036 | Jane Smith | PREMIUM | 15912.38 | 5
+CUST0079 | Bob Williams | VIP | 15816.69 | 6
+CUST0054 | Henry Garcia | REGULAR | 13974.21 | 6
+CUST0065 | Diana Rodriguez | VIP | 13938.98 | 3
+
+[Total rows: 10]

@@ -1,0 +1,37 @@
+QUERY 8 RESULTS
+================================================================================
+
+category | product_id | product_name | total_revenue | rank_in_category
+--------------------------------------------------------------------------------
+Books | PROD0022 | Phone Books | 23968.7 | 1
+Books | PROD0004 | Lamp Books | 16091.15 | 2
+Books | PROD0010 | Laptop Books | 15123.18 | 3
+Books | PROD0018 | Keyboard Books | 14365.59 | 4
+Books | PROD0037 | Phone Books | 12789.03 | 5
+Books | PROD0007 | Keyboard Books | 12434.22 | 6
+Books | PROD0009 | Monitor Books | 11727.39 | 7
+Books | PROD0017 | Shirt Books | 10014.46 | 8
+Books | PROD0033 | Novel Books | 9802.77 | 9
+Books | PROD0046 | Backpack Books | 5768.84 | 10
+Books | PROD0044 | Headphones Books | 4079.77 | 11
+Clothing | PROD0020 | Desk Clothing | 20558.88 | 1
+Clothing | PROD0012 | Lamp Clothing | 17494.78 | 2
+Clothing | PROD0045 | Shirt Clothing | 16719.8 | 3
+Clothing | PROD0002 | Lamp Clothing | 16302.96 | 4
+Clothing | PROD0003 | Novel Clothing | 15981.03 | 5
+Clothing | PROD0048 | Desk Clothing | 15131.54 | 6
+Clothing | PROD0019 | Laptop Clothing | 14312.62 | 7
+Clothing | PROD0021 | Keyboard Clothing | 8188.77 | 8
+Clothing | PROD0030 | Laptop Clothing | 5555.99 | 9
+Electronics | PROD0038 | Phone Electronics | 26619.88 | 1
+Electronics | PROD0036 | Novel Electronics | 25009.35 | 2
+Electronics | PROD0041 | Monitor Electronics | 23907.52 | 3
+Electronics | PROD0047 | Keyboard Electronics | 23776.78 | 4
+Electronics | PROD0005 | Monitor Electronics | 21674.83 | 5
+Electronics | PROD0006 | Shirt Electronics | 20862.99 | 6
+Electronics | PROD0016 | Laptop Electronics | 18390.91 | 7
+Electronics | PROD0025 | Keyboard Electronics | 18378.36 | 8
+Electronics | PROD0014 | Laptop Electronics | 17063.97 | 9
+Electronics | PROD0034 | Novel Electronics | 16825.39 | 10
+
+[Total rows: 30]

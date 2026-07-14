@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,Monitor Electronics,Electronics,Phones,433.78
+PROD0002,Lamp Clothing,Clothing,Women,373.28
+PROD0003,Novel Clothing,Clothing,Kids,415.05
+PROD0004,Lamp Books,Books,Fiction,209.14
+PROD0005,  Monitor Electronics  ,Electronics,Laptops,185.49
+PROD0006,Shirt Electronics,Electronics,Phones,120.81
+PROD0007,Keyboard Books,Books,Educational,249.21
+PROD0008,Phone Electronics,Electronics,Phones,153.95
+PROD0009,Monitor Books,Books,Non-Fiction,346.8
+PROD0010,Laptop Books,Books,Educational,250.0
+PROD0011,Headphones Home,Home,Decor,322.13
+PROD0012,Lamp Clothing,Clothing,Kids,219.75
+PROD0013,Backpack Electronics,Electronics,Tablets,441.04
+PROD0014,  Laptop Electronics  ,Electronics,Phones,317.56
+PROD0015,Headphones Home,Home,Furniture,249.14
+PROD0016,Laptop Electronics,Electronics,Tablets,168.66
+PROD0017,Shirt Books,Books,Fiction,193.51
+PROD0018,Keyboard Books,Books,Educational,370.79
+PROD0019,Laptop Clothing,Clothing,Women,205.5
+PROD0020,Desk Clothing,Clothing,Men,485.4
+PROD0021,Keyboard Clothing,Clothing,Kids,79.79
+PROD0022,Phone Books,Books,Educational,370.27
+PROD0023,Laptop Electronics,Electronics,Laptops,326.59
+PROD0024,Headphones Home,Home,Kitchen,389.84
+PROD0025,Keyboard Electronics,Electronics,Laptops,484.45
+PROD0026,Desk Electronics,Electronics,Tablets,137.84
+PROD0027,Desk Electronics,Electronics,Laptops,405.51
+PROD0028,Keyboard Electronics,Electronics,Phones,81.64
+PROD0029,Shirt Home,Home,Decor,352.5
+PROD0030,Laptop Clothing,Clothing,Men,460.17
+PROD0031,Keyboard Electronics,Electronics,Phones,330.96
+PROD0032,Keyboard Electronics,Electronics,Tablets,321.32
+PROD0033,Novel Books,Books,Educational,129.31
+PROD0034,Novel Electronics,Electronics,Phones,249.66
+PROD0035,Laptop Electronics,Electronics,Tablets,410.14
+PROD0036,  Novel Electronics  ,Electronics,Tablets,198.11
+PROD0037,Phone Books,Books,Educational,373.21
+PROD0038,Phone Electronics,Electronics,Laptops,302.64
+PROD0039,Keyboard Electronics,Electronics,Laptops,74.44
+PROD0040,Novel Home,Home,Furniture,42.94
+PROD0041,Monitor Electronics,Electronics,Laptops,223.73
+PROD0042,Laptop Electronics,Electronics,Phones,82.24
+PROD0043,Phone Home,Home,Kitchen,178.12
+PROD0044,Headphones Books,Books,Educational,377.34
+PROD0045,Shirt Clothing,Clothing,Kids,100.2
+PROD0046,Backpack Books,Books,Non-Fiction,42.13
+PROD0047,Keyboard Electronics,Electronics,Tablets,254.86
+PROD0048,Desk Clothing,Clothing,Kids,50.7
+PROD0049,Lamp Home,Home,Kitchen,119.84
+PROD0050,Phone Home,Home,Kitchen,157.54
